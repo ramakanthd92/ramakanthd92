@@ -9,4 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I developed an Android app that had 1.8+ Million downloads.
 
-<a href="https://app.daily.dev/ramakanthd92"><img src="https://github.com/ramakanthd92/ramakanthd92/blob/master/devcard.svg" width="300" alt="Ramakanth's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ramakanthd92"><img src="https://github.com/ramakanthd92/ramakanthd92/blob/master/devcard.svg" width="300" alt="Ramakanth's Dev Card"/></a> -->
+
+<a href="https://app.daily.dev/ramakanthd92"><img src="https://api.daily.dev/devcards/9bdcb77e01b04a3f9bd83cafabfbb094.png?r=ev7" width="400" alt="Ramakanth's Dev Card"/></a>
