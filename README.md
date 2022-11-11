@@ -1,9 +1,9 @@
 ### Hi there 👋
   
-- 🔭 I’m currently working on building ML infrastructre @ Amazon
-- 🌱 I’m currently learning AWS tools, architecting scalable systems, agile methodologies  
-- 👯 I’m looking to collaborate on working on cool opensource projects that make a difference  
-- 🤔 I’m looking for help with AI, Data Science, Deep Learning 
+- 🔭 I work on building ML infrastructre @ Amazon
+- 🌱 I have expertise in AWS tools, architecting scalable systems, agile methodologies  
+- 👯 I look to collaborate on working on cool opensource projects that make a difference  
+- 🤔 I'm looking for help with AI, Data Science, Deep Learning 
 - 💬 Ask me about Backend, Python, Postgres, Java, AWS, Flask, Android, Serverless
 - 📫 How to reach me:  E-mail @ ramakanthd92@gmail.com, 
                        LinkedIn : https://www.linkedin.com/in/ramakanthd92/ 
